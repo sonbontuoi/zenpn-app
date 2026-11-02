@@ -34,12 +34,4 @@ https://github.com/sonbontuoi/zenpn-app/releases/latest/download/app-x86_64.apk
 
 If the file was saved as `.zip`, rename it to `.apk` and open it again.
 
-## Verify
-
-Every release includes `SHA256SUMS`:
-
-```
-sha256sum -c SHA256SUMS
-```
-
 All versions: [Releases](https://github.com/sonbontuoi/zenpn-app/releases) · Website: https://zenpn.com/download
