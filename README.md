@@ -53,4 +53,22 @@ https://github.com/sonbontuoi/zenpn-app/releases/latest/download/app-windows-x64
 
 Windows 10 and 11, 64-bit.
 
+## macOS
+
+**[⬇ Download for macOS](https://github.com/sonbontuoi/zenpn-app/releases/latest/download/app-macos.dmg)**
+
+Copy the link:
+
+```
+https://github.com/sonbontuoi/zenpn-app/releases/latest/download/app-macos.dmg
+```
+
+1. Open the downloaded `app-macos.dmg` file, then double-click **ZenPN**.
+2. If macOS asks whether to open an app downloaded from the internet, click **Open**.
+3. ZenPN moves itself into **Applications** and opens again.
+4. When System Settings opens, turn on **ZenPN** under network extensions.
+5. Sign in and click **Connect**. When macOS asks to add VPN configurations, click **Allow**.
+
+macOS 14 Sonoma or later.
+
 All versions: [Releases](https://github.com/sonbontuoi/zenpn-app/releases) · Checksums: [SHA256SUMS](https://github.com/sonbontuoi/zenpn-app/releases/latest/download/SHA256SUMS) · Website: https://zenpn.com/download
