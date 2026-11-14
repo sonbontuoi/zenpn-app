@@ -71,4 +71,37 @@ https://github.com/sonbontuoi/zenpn-app/releases/latest/download/app-macos.dmg
 
 macOS 14 Sonoma or later.
 
+## Linux
+
+### Ubuntu / Debian
+
+**[⬇ Download .deb](https://github.com/sonbontuoi/zenpn-app/releases/latest/download/app-linux-amd64.deb)**
+
+Or install from a terminal:
+
+```
+curl -fLo app-linux-amd64.deb https://github.com/sonbontuoi/zenpn-app/releases/latest/download/app-linux-amd64.deb && sudo apt install ./app-linux-amd64.deb
+```
+
+Ubuntu 22.04 or later, Debian 12 or later.
+
+### Arch Linux
+
+**[⬇ Download package](https://github.com/sonbontuoi/zenpn-app/releases/latest/download/app-linux-x86_64.pkg.tar.zst)**
+
+Or install from a terminal:
+
+```
+curl -fLo app-linux-x86_64.pkg.tar.zst https://github.com/sonbontuoi/zenpn-app/releases/latest/download/app-linux-x86_64.pkg.tar.zst && sudo pacman -U app-linux-x86_64.pkg.tar.zst
+```
+
+Also for Arch-based systems such as CachyOS, EndeavourOS and Manjaro.
+
+### After installing
+
+1. Open **ZenPN** from your app menu and sign in.
+2. The first time you connect, Linux asks for your password once to allow the VPN.
+
+64-bit (x86_64) only.
+
 All versions: [Releases](https://github.com/sonbontuoi/zenpn-app/releases) · Checksums: [SHA256SUMS](https://github.com/sonbontuoi/zenpn-app/releases/latest/download/SHA256SUMS) · Website: https://zenpn.com/download
